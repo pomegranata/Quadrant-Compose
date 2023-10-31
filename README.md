@@ -1,5 +1,5 @@
 # Quadrant-Compose
-Compose Basic Practice from Google Android Developers course
+Jetpack Compose Basic Practice from Google Android Developers course
 
 **Practice Description:**
   The screen is divided into four quadrants. Each quadrant provides the name of a Composable function and describes it in one sentence.
